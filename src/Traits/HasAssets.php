@@ -71,6 +71,9 @@ trait HasAssets
         'vendor/laravel-admin/bootstrap3-editable/css/bootstrap-editable.css',
         'vendor/laravel-admin/google-fonts/fonts.css',
         'vendor/laravel-admin/AdminLTE/dist/css/AdminLTE.min.css',
+        
+        // custom css
+        '/assets/admin/css/style.css'
     ];
 
     /**
