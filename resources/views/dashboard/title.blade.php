@@ -26,5 +26,5 @@
 </style>
 
 <div class="title">
-    Woo Group
+    Site Specifications
 </div>
